@@ -2,5 +2,5 @@
 LSGAN with PyTorch
 
 # Result Image
-![fake](result/fake_samples_epoch_200.png "fake")
+![fake](result/fake_samples_epoch_500.png "fake")
 
